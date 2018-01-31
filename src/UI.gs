@@ -1,6 +1,6 @@
 // Script-as-app template.
 function doGet() {
- return HtmlService.createTemplateFromFile('User_UI.html').evaluate();
+ return HtmlService.createTemplateFromFile('src/User_UI.html').evaluate();
 }
 
 function savePrefs(form_object) {

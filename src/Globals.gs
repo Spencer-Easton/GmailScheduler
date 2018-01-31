@@ -24,7 +24,7 @@ var NUM_RETRIES = 10;
 //Welcome Email Subject
 var EMAIL_WELCOME_SUBJECT = 'Welcome to GmailScheduler';
 
-var SETTINGS_URL = 'https://script.google.com/macros/s/AKfycbw6hnnKGeG6xUsbRE9c3WSvJibTbaW88DP9f83e8lFnc1v1kL0/exec';
+var SETTINGS_URL = 'https://script.google.com/a/ccsknights.org/macros/s/AKfycbwioPyhJwHzFW57jS8C-vwUA5z4PzJXYs79y_vr0d-RvXZc6Bq6/exec';
 
 /* NOTE these names must match the 'name' attribute in HTML */
 var DEFAULT_PREFS = {
